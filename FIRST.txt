@@ -1,0 +1,25 @@
+WEBSITE: Website is a collection of web pages releted to the content.
+                  There are two types of website : (1) Static:-A static website is one that has Web pages stored on the server in the format that is sent to a client Web browser.
+	 (2) Dyanamic:- A dynamic website is one that changes or customizes itself frequently and automatically.
+
+WWW:- WWW stand for the "world wild web". we can access the website throught the www. In this the global system of pages accessed via URLs. 
+
+CLIENT-SERVER ARCHIECTURE:- The client-server architecture refers to a system that hosts, delivers, and manages most of the resources and services that the client requests. 
+			In this model, all requests and services are delivered over a network, and it is also referred to as the networking computing model or client server network.	
+			The client sends a request for data, and the server accepts and accommodates the request, sending the data packets back to the user who needs them.
+
+DOMAIN:-domain  is the location of a website.ex-google.com is a domain name
+
+HOSTING:-A hosting is a place where files are stored.any one require file they can access the file from there.
+
+ADDRESS BAR:-address bar is the element that shows the current URL. The user can type a URL into it to navigate to a chosen website.
+
+TITLE BAR:-The title bar is a horizontal bar located at the top of a window in a GUI. It displays the title of the software, name of the current document or file, or other text identifying the contents of that window.
+
+EXTENSION:-extension is a suffix to the name of a computer file.ex-.txt,.png,.jpg
+
+FILE TYPE:-File types define how files and organizational data are stored in a business. A file type is usually identified by the file extension and the applications ...
+	ex- text file,pdf file,mp3 file,html file etc. 
+
+URL/URI:-url stands for "Uniform Resource Locator".It is  referred to as a web address.
+	uri stands for "Uniform Resource Identifier".it is a string of characters that generally identifies any web resource by using a name, a location, or both.
